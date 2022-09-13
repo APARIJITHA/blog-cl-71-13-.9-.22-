@@ -1,0 +1,66 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_main_div{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    flood-opacity: none;
+}
+.travel_main_div img{
+    width: 100%;
+}
+.travel_main_div hr{width: 230px;
+}
+.travel_main_div h5,.travel_main_div p {
+    margin-left: 20px;
+}
+.movie_text span  {
+    color:#ff7700
+}
+.movie_header{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom:15px;
+
+}
+.movie_header i {
+    float:right;
+}
+.environment_news {
+    margin-top: 13px;
+}
+.environment_news h4 {
+    border-bottom: 1px solid white;
+    padding:8px;
+}
+.book{
+    cursor: pointer;
+}
+.book hr {
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
